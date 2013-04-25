@@ -1,8 +1,8 @@
 #Settings
 downloadpath="/home/xxxxx/data/drupalversions"
 sitepath="/home/xxxxx/domains"
-scriptdata="/home/xxxxx/data"
 htmlfolder="/html"
+scriptdata="/home/xxxxx/data"
 
 # Input for version to dowload
 clear
